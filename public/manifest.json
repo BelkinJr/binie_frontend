@@ -1,0 +1,25 @@
+{
+  "short_name": "binie",
+  "name": "binie",
+  "icons": [
+    {
+      "src": "Binie_Logo_sm.webp",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/webp"
+    },
+    {
+      "src": "Binie_Logo_med.webp",
+      "sizes": "192x192",
+      "type": "image/webp"
+    },
+    {
+      "src": "Binie_Logo_lrg.webp",
+      "sizes": "512x512",
+      "type": "image/webp"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

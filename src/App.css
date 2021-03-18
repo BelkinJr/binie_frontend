@@ -1,0 +1,41 @@
+.cluster-marker-norg {
+  color: #fff;
+  background: #c787c1;
+  border-radius: 50%;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cluster-marker-mixed{
+  color: #fff;
+  background: linear-gradient( -25deg, #c787c1, #c787c1 49%, #57b568 49%, #6abd79 51%, #6abd79 51%);
+  border-radius: 50%;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cluster-marker-org{
+  color: #fff;
+  background: #57b568;
+  border-radius: 50%;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.bin-marker {
+  background: none;
+  border: none;
+}
+
+.bin-marker img {
+  width: 25px;
+}
+
+
+
